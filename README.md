@@ -1,6 +1,6 @@
 # Job Role Fit Analyzer
 
-A Claude project that evaluates job postings against a senior cybersecurity executive's background. Drop in a job posting URL and get a structured fit analysis back — scored across eight dimensions, with a plain-language verdict on whether to apply.
+A Claude project that evaluates job postings against a senior cybersecurity executive's background. Drop in a job posting URL and get a structured fit analysis back, scored across eight dimensions, with a plain-language verdict on whether to apply.
 
 Built for my own job search. Shared in case it's useful to adapt for yours.
 
